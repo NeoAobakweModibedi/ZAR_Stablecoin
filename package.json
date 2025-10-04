@@ -1,0 +1,22 @@
+{
+  "name": "zar-stablecoin",
+  "version": "1.0.0",
+  "description": "A South African Rand (ZAR) pegged stablecoin implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stablecoin",
+    "ZAR",
+    "South Africa",
+    "blockchain",
+    "ethereum",
+    "solidity"
+  ],
+  "author": "Neo Aobakwe Modibedi",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0"
+  }
+}
